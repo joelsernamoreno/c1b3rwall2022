@@ -1,3 +1,5 @@
+- (linux): sudo apt install libusb-1.0-0 libusb-1.0-0-dev
+
 - Instalar IDE de Arduino: https://www.arduino.cc/en/software
 
 - Instalar drivers windows: https://github.com/digistump/DigistumpArduino/releases/download/1.6.7/Digistump.Drivers.zip
@@ -9,3 +11,7 @@ http://digistump.com/package_digistump_index.json
 - Descargar repositorio: https://github.com/joelsernamoreno/c1b3rwall2022
 
 - Descargar librería con layout español: https://github.com/ernesto-xload/DigisparkKeyboard
+
+- (linux), reglas UDEV: http://digistump.com/wiki/digispark/tutorials/linuxtroubleshooting
+
+- (linux): sudo udevadm control --reload-rules
